@@ -24,7 +24,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .splash-page .wsite-background, .wsite-header-section { background: url(theme/images/default-bg.jpg?1616464707) no-repeat top center; background-size: cover; }
  .wsite-header-section { height: 600px; }
  body.header-overlay-on .wsite-header-section:not(.wsite-section-bg-color):before { content: ''; display: block; position: absolute; top: 0; width: 100%; height: 60%; background: linear-gradient(to bottom,rgba(255,255,255,0.3) 0%,rgba(255,255,255,0.15) 40%,rgba(0,0,0,0) 100%); }
- .banner-wrap { position: relative; height: 100%; background: #ffffff; color: #000000; }
+ .banner-wrap {position: relative;background: #ffffff;color: #000000;}
  .banner-wrap .container { padding: 80px 40px; }
  .banner-wrap .banner { text-align: center; -webkit-transition: opacity 500ms ease; -moz-transition: opacity 500ms ease; -ms-transition: opacity 500ms ease; transition: opacity 500ms ease; }
  .banner-wrap h2 { color: inherit; font-family: 'Birdseye', sans-serif; font-size: 80px; font-weight: 100; line-height: 1.15; margin: 15px auto; }
